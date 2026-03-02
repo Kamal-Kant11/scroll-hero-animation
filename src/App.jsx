@@ -1,10 +1,10 @@
-import React from 'react'
+import Hero from "./components/Hero"
 
-const App = () => {
+function App() {
   return (
-    <div>
-      App
-    </div>
+    <>
+      <Hero />
+    </>
   )
 }
 
